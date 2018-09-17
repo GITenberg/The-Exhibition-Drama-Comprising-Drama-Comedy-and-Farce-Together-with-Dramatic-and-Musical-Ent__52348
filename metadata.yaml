@@ -1,0 +1,35 @@
+_repo: The-Exhibition-Drama-Comprising-Drama-Comedy-and-Farce-Together-with-Dramatic-and-Musical-Ent__52348
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, George M. (George Melville)
+    aliases:
+    - Baker, George Melville
+    - Baker, G. M. (George Melville)
+    birthdate: 1832
+    deathdate: 1890
+    gutenberg_agent_id: '44486'
+    url: http://www.gutenberg.org/2009/agents/44486
+    wikipedia: http://en.wikipedia.org/wiki/George_Melville_Baker
+description: ''
+gutenberg_issued: '2016-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52348'
+  lccn: '35036672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PN'
+- !lcsh 'Amateur plays'
+- GITenberg
+tableOfContents: Enlisted for the war; or, the Home-Guard -- Never say die -- The
+  champion of her sex -- The visions of freedom -- The merry Christmas of the old
+  woman who lived in a shoe -- The tournament of Idylcourt -- A thorn among the roses
+  -- A Christmas carol.
+title: "The Exhibition Drama\r\nComprising Drama, Comedy, and Farce, Together with\
+  \ Dramatic and Musical Entertainments"
+url: http://www.gutenberg.org/ebooks/52348
